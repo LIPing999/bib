@@ -58,7 +58,7 @@ Node.js + React + ES6
 
 ```sh
 ❯ cd /path/to/workspace
-❯ git clone git@github.com:YOUR_USERNAME/bib.git
+❯ git clone git@github.com:LIPing999/bib.git
 ```
 
 2. **[Do things](https://github.com/92bondstreet/bib#%EF%B8%8F-example-of-steps-to-do)**
